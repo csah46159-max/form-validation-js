@@ -35,7 +35,7 @@ This project is a simple "Complete Form Validation" system built using "HTML, CS
 ```
 Complete-Form-Validation/
 │
-├── index.html
+├── form-validation.html
 └── README.md
 ```
 
@@ -43,7 +43,7 @@ Complete-Form-Validation/
 
 1. Download or clone the repository.
 2. Open the project folder.
-3. Double-click **index.html** or open it in any modern web browser.
+3. Double-click **form-validation.html** or open it in any modern web browser.
 4. Fill in the form and test the validation.
 
 
