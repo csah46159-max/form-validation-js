@@ -21,7 +21,7 @@ This project is a simple "Complete Form Validation" system built using "HTML, CS
 * ✅ Automatically clears previous error messages before each validation
 
 ## Screenshot
-![Password Validation](Screenshot.png)
+![Password Validation](form-validation-outline.png)
 
 ## Technologies Used
 
